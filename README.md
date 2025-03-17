@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">A student developer in second year</h3>
 
-- 🔭 I’m currently working on [this]([https://github.com/Maxime-Labbe/](https://github.com/Maxime-Labbe/Python-Socket-Messaging))
+- 🔭 I’m currently working on [this](https://github.com/Maxime-Labbe/Python-Socket-Messaging)
 
 - 🌱 I’m currently learning **Golang**
 
