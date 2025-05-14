@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maxime-labbe-626012293/](https://www.linkedin.com/in/maxime-labbe-626012293/)
 
-- ⚡ Fun fact **I love watching movies**
+- ⚡ Fun fact **I love watching movies** ([My Letterboxd](https://letterboxd.com/Maxime_Labbe/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
