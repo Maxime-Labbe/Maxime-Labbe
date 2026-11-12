@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A student developer in third year. Currently in apprenticeship at Decathlon.</h3>
+<h3 align="center">A student developer in fourth year. Currently in apprenticeship at Decathlon.</h3>
 
 - 🔭 I’m currently working on [this](https://github.com/Maxime-Labbe/Python-SudokuSolver)
 
